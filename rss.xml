@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Creative Projects for Change]]></title>
         <description><![CDATA[Creative Projects for Change]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://coreycooperstevens.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 15:29:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 17:21:36 GMT</lastBuildDate>
+        <atom:link href="http://coreycooperstevens.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative Projects for Change]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da7206a2-096d-4487-ac53-cc147f4fbd0a.jpg">]]></description>
+            <link>http://coreycooperstevens.rocks/journey-with-soundscape/index.html</link>
+            <guid isPermaLink="false">266324c1-1456-4dda-97c8-c6f5b459d874</guid>
+            <pubDate>Fri, 26 Aug 2016 17:21:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da7206a2-096d-4487-ac53-cc147f4fbd0a.jpg">]]></description>
-            <link>undefinedjourney-with-soundscape/index.html</link>
-            <guid isPermaLink="false">266324c1-1456-4dda-97c8-c6f5b459d874</guid>
-            <pubDate>Sat, 14 May 2016 15:28:52 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af06ecef-5fc0-4ccc-9e28-5b17894177f8.jpg" alt="" title="">]]></description>
+            <link>http://coreycooperstevens.rocks/b1688689-697e-462c-8de7-2fa585e084e3/index.html</link>
+            <guid isPermaLink="false">b1688689-697e-462c-8de7-2fa585e084e3</guid>
+            <pubDate>Fri, 26 Aug 2016 17:17:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
